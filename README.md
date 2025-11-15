@@ -9,7 +9,7 @@
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=isaswa/Better-Kemono-and-Coomer-Downloader&type=Date)](https://star-history.com/#isaswa/Better-Kemono-and-Coomer-Downloader&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Puremeo/Enhanced-Kemono-and-Coomer-Downloader&type=Date)](https://star-history.com/#Puremeo/Enhanced-Kemono-and-Coomer-Downloader&Date)
 
 ## ✨ 主要特性
 
