@@ -1,4 +1,4 @@
-# Better Kemono and Coomer Downloader
+# Enhanced Kemono and Coomer Downloader
 
 [![Views](https://hits.sh/github.com/Puremeo/hits.svg)](https://github.com/Puremeo/Enhanced-Kemono-and-Coomer-Downloader)
 
